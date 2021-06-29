@@ -1,5 +1,5 @@
 # Full Adder
-Implementation of a Full Adder circuit in VHDL.
+Implementation of a 4-bit Full Adder circuit in VHDL.
 
 ## Built With
 -Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition<br />
