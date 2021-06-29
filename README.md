@@ -7,6 +7,7 @@ Implementation of a 4-bit Full Adder circuit in VHDL.
 
 ## Circuit Schematic
 ![alt text](https://github.com/AlexandreLujan/Full_Adder/blob/main/Full_Adder.png?raw=true)
+![alt text](https://github.com/AlexandreLujan/Full_Adder/blob/main/4-bit_Full_Adder.png?raw=true)
 
 ## Simulation
 -Simulation result using ModelSim-Altera contained in Quartus.<br />
