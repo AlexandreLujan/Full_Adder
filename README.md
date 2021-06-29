@@ -1,4 +1,4 @@
-# 4-bit_multiplier
+# Full Adder
 Implementation of a 4-bit multiplier circuit in VHDL.
 
 ## Built With
