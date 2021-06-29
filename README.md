@@ -1,5 +1,5 @@
-# Full_Adder
-Implementation of the Full_Adder Circuit in VHDL.
+# 4-bit_multiplier
+Implementation of the 4-bit multiplier Circuit in VHDL.
 
 ## Built With
 -Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition<br />
